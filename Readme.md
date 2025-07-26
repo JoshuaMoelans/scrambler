@@ -11,4 +11,4 @@ A web app that scrambles text while keeping first and last letters intact, based
 
 ## Try it Out
 
-Check (github pages link goes here)
+On [Github Pages](https://joshuamoelans.github.io/scrambler/)
